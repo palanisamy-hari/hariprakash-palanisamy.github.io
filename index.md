@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hariprakash Palanisamy
 
 You can use the [editor on GitHub](https://github.com/palanisamy-hari/hariprakash-palanisamy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
