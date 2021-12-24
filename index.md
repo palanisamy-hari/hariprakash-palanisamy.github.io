@@ -1,4 +1,4 @@
-## Hariprakash Palanisamy
+# Hariprakash Palanisamy
 
 ## Senior Automation Developer @ Nationwide insurance
 
